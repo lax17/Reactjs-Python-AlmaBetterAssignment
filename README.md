@@ -40,4 +40,20 @@ Frontend:
   For handling of concurrent requests (Suppose the POST API for submitting marks is called concurrently by 2 users, then the last one should finally reflect on the backend) I have refer below link:
   
   https://stackoverflow.com/questions/1645269/concurrency-control-in-django-model
+ 
+<b> Instruction for Running Project </b>
+
+	Backend(Django Server):
+	
+		step1: git clone : https://github.com/lax17/Reactjs-Python-AlmaBetterAssignment/
+		step2 : cd DjangoBackend/studentsMang
+		step3 : pip install -r requirements.txt
+		step4 : python manage.py runserver
+		
+	Frontend(Reactjs):
+	
+		step1: cd assignment
+		step2 : npm install
+		step3 : npm start
+	
   
