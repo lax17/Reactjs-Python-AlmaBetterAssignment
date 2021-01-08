@@ -1,0 +1,4 @@
+.idea
+./venv
+./studentsMang/db.sqlite3
+./studentsMang/marks/migrations
